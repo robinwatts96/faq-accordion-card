@@ -1,11 +1,11 @@
 // const arrow = document.getElementById('testArrow');
 // const hidden = document.getElementById('testP');
 
-// function myFunction() {
-//  if (hidden.style.display === "none") {
-//     hidden.style.display = "block";
-//  } 
-// };
+function myFunction() {
+ if (hidden.style.display === "none") {
+    hidden.style.display = "block";
+ } 
+};
 
 const arrow = document.getElementById('testArrow');
 const hidden = document.getElementById('testP');
