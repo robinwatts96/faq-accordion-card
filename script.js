@@ -7,8 +7,8 @@
 //  } 
 // };
 
-const arrow = document.getElementById('testArrow');
-const hidden = document.getElementById('testP');
+let arrow = document.getElementById('testArrow');
+let hidden = document.getElementById('testP');
 
 arrow.onClick = function showHidden() {
     hidden.style.display = 'block';
